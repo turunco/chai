@@ -1,0 +1,14 @@
+{
+    "name": "chai",
+    "version": "0.1.0",
+    "description": "practice chai",
+    "scripts": {
+        "test": "node ./assert.js",
+        "test-bdd": "node ./bdd.js"
+    },
+    "author": "turunco",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^3.5.0"
+    }
+}
