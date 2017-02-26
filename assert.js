@@ -7,7 +7,7 @@ var assert = require('chai').assert;
 assert('foo' === 'foo', 'foo is foo');
 assert(typeof(123) === 'number', '123 is number');
 
-// assert.fail();	// 何に使うのか良く分からん
+// assert.fail();
 
 
 // Asserts that object is truthy/falsy.
